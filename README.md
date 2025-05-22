@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zer0biT404
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning PHP, Phyton and Javascript
-- 💞️ I’m looking to collaborate on Mikrotik
 
 <!---
 Zer0biT404/Zer0biT404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
